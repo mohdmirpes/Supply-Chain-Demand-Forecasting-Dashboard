@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+coverage/
+.pytest_cache/
+backend/sales_data.csv
+backend/GROQ_API_KEY=*
